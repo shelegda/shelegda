@@ -68,6 +68,7 @@ require_once('config/config.php');
 		}else{
 ?>
 <a href='tovars.php'class='btn btn-default'>Товары</a>
+<a href='search.php'class='btn btn-default'>Поиск товаров</a>
 <a href='login.php'class='btn btn-default'>Вход</a>
 <a href='reg.php'class='btn btn-default'>Регистрация</a>
 <?php
